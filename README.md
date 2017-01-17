@@ -1,5 +1,5 @@
 # MagiGame
-card game- I work on it on weekends in free time~
+card game- basic layout just to get friends started
 
 
 known error: clicking button in 2nd row during spell selection breaks early
